@@ -1,4 +1,4 @@
-<img width="1280" height="765" alt="image" src="https://github.com/user-attachments/assets/c09a7e82-47c8-47fe-b2c5-83f3277da368" /># Personal Website
+<img width="1280" height="765" alt="image" src="https://github.com/user-attachments/assets/c09a7e82-47c8-47fe-b2c5-83f3277da368" />
 
 https://basantkushwaha.com.np
 
